@@ -1,0 +1,14 @@
+/home/jannis/codingChallenges/slothbytes/NoYelling/bin/Debug/net8.0/NoYelling
+/home/jannis/codingChallenges/slothbytes/NoYelling/bin/Debug/net8.0/NoYelling.deps.json
+/home/jannis/codingChallenges/slothbytes/NoYelling/bin/Debug/net8.0/NoYelling.runtimeconfig.json
+/home/jannis/codingChallenges/slothbytes/NoYelling/bin/Debug/net8.0/NoYelling.dll
+/home/jannis/codingChallenges/slothbytes/NoYelling/bin/Debug/net8.0/NoYelling.pdb
+/home/jannis/codingChallenges/slothbytes/NoYelling/obj/Debug/net8.0/NoYelling.GeneratedMSBuildEditorConfig.editorconfig
+/home/jannis/codingChallenges/slothbytes/NoYelling/obj/Debug/net8.0/NoYelling.AssemblyInfoInputs.cache
+/home/jannis/codingChallenges/slothbytes/NoYelling/obj/Debug/net8.0/NoYelling.AssemblyInfo.cs
+/home/jannis/codingChallenges/slothbytes/NoYelling/obj/Debug/net8.0/NoYelling.csproj.CoreCompileInputs.cache
+/home/jannis/codingChallenges/slothbytes/NoYelling/obj/Debug/net8.0/NoYelling.dll
+/home/jannis/codingChallenges/slothbytes/NoYelling/obj/Debug/net8.0/refint/NoYelling.dll
+/home/jannis/codingChallenges/slothbytes/NoYelling/obj/Debug/net8.0/NoYelling.pdb
+/home/jannis/codingChallenges/slothbytes/NoYelling/obj/Debug/net8.0/NoYelling.genruntimeconfig.cache
+/home/jannis/codingChallenges/slothbytes/NoYelling/obj/Debug/net8.0/ref/NoYelling.dll
